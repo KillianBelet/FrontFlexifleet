@@ -1,0 +1,3 @@
+<?php //App%255CController%255CPatchApiController%2523patchEnableGestionUtilisateur
+
+return [PHP_INT_MAX, []];
